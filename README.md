@@ -7,8 +7,8 @@
 -->
 <h3> hello! My name is Seungsik Kang.👋 <br>
 I majored in computer science at a junior college. <br>
-I have been running an ICT company for about 15 years, of which I have served as an adjunct professor for about 7 years.
-Now, with a 15-year finance management license, I am doing a lot of work and also a long-term care business.<br> The name of the company is GAGAHOHO.
+I have been running an ICT company for about 15 years, of which I have served as an adjunct professor for about 7 years.<br>
+Now, with a 15-year finance management license, I am doing a lot of work and also a long-term care business. The name of the company is GAGAHOHO.
 </h3>
 <br>
 <h2> My tech stack </h2>
