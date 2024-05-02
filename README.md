@@ -15,6 +15,7 @@ Now, with a 15-year finance management license, I am doing a lot of work and als
 
 ![PYTHON](https://img.shields.io/badge/PYTHON-3.7-orange?style=plastic&logo=python&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgreSQL-14-green?style=plastic&logo=postgresql&logoColor=white)
+![supabase](https://img.shields.io/badge/Supabase-181818?style=for-the-badge&logo=supabase&logoColor=white)
 <!--
 **myaji35/myaji35** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
